@@ -1,0 +1,3 @@
+agent,average_response_time,average_f1,estimated_tokens
+Agent A,8.6e-06,0.21783999999999998,51
+Agent B,8e-07,0.18284,73

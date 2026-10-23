@@ -1,0 +1,28 @@
+
+[
+  {
+    "id": 1,
+    "question": "What is artificial intelligence?",
+    "expected_answer": "Artificial intelligence enables machines to perform tasks that normally require human intelligence."
+  },
+  {
+    "id": 2,
+    "question": "What is machine learning?",
+    "expected_answer": "Machine learning is a branch of AI that enables systems to learn patterns from data."
+  },
+  {
+    "id": 3,
+    "question": "What is Python?",
+    "expected_answer": "Python is a high-level programming language known for its simple syntax."
+  },
+  {
+    "id": 4,
+    "question": "What is NLP?",
+    "expected_answer": "Natural language processing enables computers to understand and process human language."
+  },
+  {
+    "id": 5,
+    "question": "What is deep learning?",
+    "expected_answer": "Deep learning is a subset of machine learning that uses neural networks with multiple layers."
+  }
+]

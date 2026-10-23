@@ -1,0 +1,6 @@
+question_id,question,expected_answer,actual_answer,response_time_seconds,input_tokens_estimated,output_tokens_estimated,total_tokens_estimated,precision,recall,f1_score
+1,What is artificial intelligence?,Artificial intelligence enables machines to perform tasks that normally require human intelligence.,Demo response for: What is artificial intelligence?,0.0,4,7,11,0.2857,0.1667,0.2105
+2,What is machine learning?,Machine learning is a branch of AI that enables systems to learn patterns from data.,Demo response for: What is machine learning?,0.0,4,7,11,0.4286,0.2,0.2727
+3,What is Python?,Python is a high-level programming language known for its simple syntax.,Demo response for: What is Python?,0.0,3,6,9,0.5,0.25,0.3333
+4,What is NLP?,Natural language processing enables computers to understand and process human language.,Demo response for: What is NLP?,0.0,3,6,9,0.0,0.0,0.0
+5,What is deep learning?,Deep learning is a subset of machine learning that uses neural networks with multiple layers.,Demo response for: What is deep learning?,0.0,4,7,11,0.4286,0.2,0.2727
